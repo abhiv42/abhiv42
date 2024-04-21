@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I've 6 years of experience as Full Stack Developer with expertise in creating mobile app and web application from scratch or working on the existing projects.
 <!--
 **abhiv42/abhiv42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
